@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on two UE5 game titles!
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
 
-- 📺 Check out my [Youtube](https://www.youtube.com/@maze2994)
+- 📺 Check out my [YouTube](https://www.youtube.com/@maze2994)
 
 - ⚡ Fun fact: I've been programming since I was eight years old.
