@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on two [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) game titles!
 
-- 🌱 I’m currently learning [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+- 🌱 I’m currently learning [More C++](https://en.wikipedia.org/wiki/C++_(programming_language)).
 
 - 📺 Check out my [YouTube](https://www.youtube.com/@maze2994).
 
